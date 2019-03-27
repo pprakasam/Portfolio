@@ -1,1 +1,17 @@
 @import '~bootstrap/scss/bootstrap';
+
+#main-header
+img {
+  height: 100%;
+  width: 100%;
+}
+
+#main-header
+.port-item {
+  width: 30%;
+}
+
+.bg-black {
+  background-color: #000;
+  color: #fff;
+}

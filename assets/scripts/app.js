@@ -8,4 +8,7 @@
 
 $(() => {
   // your JS code goes here
+  $('.port-item').click(function () {
+    $('.collapse').collapse('hide')
+  })
 })
